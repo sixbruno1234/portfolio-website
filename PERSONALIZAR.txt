@@ -1,0 +1,129 @@
+========================================
+  CHECKLIST DE PERSONALIZAÇÃO
+========================================
+
+Abra o arquivo "index.html" em um editor de texto (Bloco de Notas, VS Code, etc)
+e substitua as seguintes informações:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. WHATSAPP (MUITO IMPORTANTE!)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📍 Linha 612:
+   PROCURE POR: href="https://wa.me/5511999999999
+   SUBSTITUA: Coloque seu número com código do país
+
+   Exemplos:
+   - Brasil: https://wa.me/5511987654321
+   - Portugal: https://wa.me/351912345678
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. REDES SOCIAIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📍 Linhas 625-648 (Seção de Contato):
+
+   GITHUB:
+   Linha 627: href="https://github.com"
+   SUBSTITUA: href="https://github.com/SEU-USUARIO"
+
+   LINKEDIN:
+   Linha 632: href="https://linkedin.com"
+   SUBSTITUA: href="https://linkedin.com/in/SEU-USUARIO"
+
+   FIVERR:
+   Linha 637: href="https://fiverr.com"
+   SUBSTITUA: href="https://fiverr.com/SEU-USUARIO"
+
+   EMAIL:
+   Linha 642: href="mailto:seuemail@exemplo.com"
+   SUBSTITUA: href="mailto:seu-email-real@gmail.com"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. INFORMAÇÕES DE CONTATO NO FOOTER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📍 Linhas 685-695:
+
+   EMAIL:
+   Linha 686-687: seuemail@exemplo.com
+   SUBSTITUA: Seu email real
+
+   WHATSAPP:
+   Linha 690-691: +55 11 99999-9999
+   SUBSTITUA: Seu número formatado
+
+   LOCALIZAÇÃO:
+   Linha 694-695: Brasil
+   SUBSTITUA: Sua cidade/estado (ex: "São Paulo, SP")
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. PERSONALIZAÇÕES OPCIONAIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TÍTULO E DESCRIÇÃO:
+📍 Linha 17: Meta description
+📍 Linha 18: Meta keywords
+📍 Linha 27: Title da página
+
+SEÇÃO HERO:
+📍 Linhas 160-169: Você pode ajustar os textos principais
+
+SOBRE VOCÊ:
+📍 Linhas 226-245: Edite o texto "Sobre Mim" para contar sua história
+
+HABILIDADES:
+📍 Linhas 251-297: Adicione ou remova tecnologias que você domina
+
+PROJETOS:
+📍 Linhas 315-490: Edite os 4 projetos ou adicione seus projetos reais
+
+ESTATÍSTICAS:
+📍 Linhas 186-198: Ajuste os números (anos, tecnologias, etc)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. COMO EDITAR O ARQUIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OPÇÃO 1 - Bloco de Notas:
+1. Clique com botão direito no index.html
+2. Escolha "Abrir com" > "Bloco de notas"
+3. Use Ctrl+F para procurar os textos acima
+4. Faça as substituições
+5. Salve (Ctrl+S)
+
+OPÇÃO 2 - VS Code (Recomendado):
+1. Baixe VS Code: https://code.visualstudio.com
+2. Instale
+3. Clique com botão direito na pasta "portfolio-website"
+4. Escolha "Abrir com Code"
+5. Use Ctrl+F para buscar e substituir
+6. Salve (Ctrl+S)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. TESTANDO AS MUDANÇAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Após fazer as mudanças:
+1. Salve o arquivo index.html
+2. Dê duplo clique em "abrir-site.bat"
+3. Veja se suas informações aparecem corretamente
+4. Teste se os links funcionam (WhatsApp, redes sociais)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. PRÓXIMO PASSO: DEPLOY NA VERCEL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Quando estiver tudo personalizado:
+1. Acesse: https://vercel.com
+2. Faça login (pode usar GitHub ou email)
+3. Clique em "Add New Project"
+4. Clique em "Upload" ou arraste a pasta
+5. Aguarde o deploy
+6. Copie a URL do seu site!
+
+DICA: Leia o arquivo README.md para instruções detalhadas!
+
+========================================
+  BOA SORTE COM SEU PORTFÓLIO! 🚀
+========================================
